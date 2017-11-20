@@ -54,6 +54,10 @@ const router = new VueRouter({
             component: require('./routers/switch.vue')
         },
         {
+            path: '/swimlane',
+            component: require('./routers/swimlane.vue')
+        },
+        {
             path: '/alert',
             component: require('./routers/alert.vue')
         },

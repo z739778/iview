@@ -38,6 +38,7 @@ import Slider from './components/slider';
 import Spin from './components/spin';
 import Steps from './components/steps';
 import Switch from './components/switch';
+import Swimlane from './components/swimlane';
 import Table from './components/table';
 import Tabs from './components/tabs';
 import Tag from './components/tag';
@@ -101,6 +102,7 @@ const components = {
     Row,
     Select,
     Slider,
+    Swimlane,
     Spin,
     Step: Steps.Step,
     Steps,
